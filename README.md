@@ -34,7 +34,7 @@ your_pc$ source venv/bin/activate
 ```
 
 ## Workflow
-Do define your workflow you just have to edit the `workflow` function
+Define your workflow you just have to edit the `workflow` function.
 
 ```python
 def workflow():

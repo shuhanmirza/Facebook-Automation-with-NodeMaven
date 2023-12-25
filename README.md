@@ -7,8 +7,9 @@ performs the workflow, benefiting from the diverse residential IP addresses of N
 
 ## Prerequisites
 
-- You will need have Python3
-- Setup virtualenv and install required packages
+- Install Python3
+- Setup virtualenv
+- Install required packages
 
 ```console
 your_pc$ virtualenv -p /usr/bin/python3 venv
@@ -34,7 +35,7 @@ your_pc$ source venv/bin/activate
 ```
 
 ## Workflow
-Define your workflow you just have to edit the `workflow` function.
+Edit the `workflow` function to define your workflow.
 
 ```python
 def workflow():
@@ -46,7 +47,7 @@ def workflow():
     facebook_goto_post(browser=browser, target_post=target_post)
     facebook_haha(browser)
 ```
-In this sample workflow, the bot goes to the target post and reacts with Haha.
+In this sample workflow, the bot goes to the target post and reacts with _Haha_.
 
 ## Running
 
@@ -61,5 +62,5 @@ To get started, register on the NodeMaven platform using [this link](https://go.
 ## Conclusion:
 
 By integrating NodeMaven's Residential Proxies, your bot will perform the workflow without being detected. 
-Using the common functions you will seamlessly build your required workflows. Open Issues and PRs if you want to see 
+Using the common functions in the repo you can easily build your required workflows. Open Issues and PRs if you want to see 
 more functionalities.

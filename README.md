@@ -57,7 +57,7 @@ In this sample workflow, the bot goes to the target post and reacts with _Haha_.
 
 ## NodeMaven's Residential Proxies:
 
-To get started, register on the NodeMaven platform using [this link](https://go.nodemaven.com/proxies17), choose the trial on your personal account, and apply the coupon code `PLUS2` during the trial setup to receive **2GB** of traffic for free.
+To get started, register on the NodeMaven platform using [this link](https://go.nodemaven.com/proxies17), choose the trial on your personal account, and use `PLUS2` during the trial setup to receive **2GB** of traffic for free.
 
 ## Conclusion:
 
